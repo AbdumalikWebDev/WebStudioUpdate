@@ -17,7 +17,7 @@ document.querySelector("#app").innerHTML = `
             <a href="index.html" class="link" role="directory" tabindex="0">
               Студия
             </a>
-            <a href="/portfolio/" class="link" role="directory" tabindex="0">
+            <a href="/portfolio/index.html" class="link" role="directory" tabindex="0">
               Портфолио
             </a>
             <a href="#" class="link" tabindex="0" role="directory">
@@ -47,7 +47,7 @@ document.querySelector("#app").innerHTML = `
         <ul>
           <li><a href="index.html" tabindex="0" role="directory">Студия</a></li>
           <li>
-            <a href="/portfolio/" tabindex="0" role="directory">Портфолио</a>
+            <a href="/portfolio/index.html" tabindex="0" role="directory">Портфолио</a>
           </li>
           <li><a href="" tabindex="0" role="directory">Контакты</a></li>
         </ul>
